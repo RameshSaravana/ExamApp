@@ -1,0 +1,274 @@
+CHAPTER - 1
+
+An Introduction to Star Office Writer
+
+1. The thick horizontal line in the page area is called
+a) End of page b) End of document c) End of document marker d) Page-marker
+2. _______  key deletes the characters to the right of the insertion point.
+a) Delete key b) Backspace key c) Enter key d) Shift key
+3. _______________ option is selected to cut the selected text.
+a) Edit, cut b) Edit, Paste c) Edit, copy d) Ctrl + x, Ctrl + v
+4 . _____and ____ are the two combo boxes available in the Find and Replace dialog box.
+a) Search for, Replace with b) Search with, Replace for
+c) Find with, Search for d) Replace with, Search for
+5 . ____ key combination is used to move to the end o f the document. (June 2007)
+a) Ctrl + Home b) Ctrl + End c) Shift + Home d) Shift + End
+6. Which o f the following is used to create text documents? (June’07, Sep’07 & March’08)
+a) Star Office Writer b) Star Office impress c) Star Office Calc d) Star Office Base
+7. Which is used to create a database?
+a) Star Office Writer b) Star Office Draw c) Star Office Calc d) Star Office Base
+8. Which key is pressed down and the movement keys are used to highlight the required text
+a) Shift b) Alt c) Ctrl  d) Ctrl + shift
+9. Which key is used to move to the beginning of a line?
+a) End b) Home c) Page up d) Page down
+10. The word to be used as replacement for the word search is given in the text box,
+a) Replacement b) Replace with c) Suggestion d) Search for
+11. Which o f the following contain text, tables, graphs, etc.?
+a) Document b) Spreadsheet c) Text d) Presentation
+12. In Star Office Writer, the page preview option is available under the _________ menu.
+a) Format b) Edit c) File d) View 
+13. Spreadsheet is created using
+a) Star Office Writer b) Star Office Calc c) Star Office Base d) Star Office Impress
+14. Which of the following is a word processing package? 
+a) Star Office Writer b) Star Office Calc c) Star Office Impress d) Star Office Base
+15. Which of the following is not a word processor? 
+a) Star Writer b) Note pad c) MS-word d) WordStar
+16. Star writer is a
+a) Word processor b) Database c) Spreadsheet d) Language
+17. Which menu option is used for working with multiple documents?
+a) Format b) View c) File d) Window
+18. The insertion point indicates where the
+a) Task bar will appear b) New text will appear
+c) Tool bar will appear d) Text area will appear
+19. Which key is used to move one character right?
+a) Shift ? Right b)Tab c) Right arrow d) Ctrl + v
+20. Which o f the following will automatically wrap the text to the new line Star Office?
+a) Star Calc b) Star Impress c) Star Writer d) Star Base
+21. A word processing document may contain 
+a) Text and Tables b) Graphs and Charts
+c) Pictures and Drawings d) All of these
+22. Which o f the following is not a word processing package?
+a) Star Office Calc b) WordPro c) Lotus AmiPro d) Word Perfect
+23. The term word processing refers to the activity carried out
+a) To view b) To create c) To manipulate d) All the above
+24. Which option enables to quit from Star Office?
+a) End b) Quit c) Stop d) Exit
+25. Which keyboard short cut is for saving the document?
+a) Ctrl + V b) Ctrl+ C c) Ctrl + A d) Ctrl + S
+26. While saving a file, we can select the drive by clicking on the following icon,
+a) Up one level b) Back c) New folder d) Save
+27. Which o f the following command can be used to open a new document?
+a) File ? New ? Text Document b) File ? Text ? New
+c) File ? Star Writer ? New d) File ?  New
+28. In Star Writer, the flashing vertical bar is called 
+a) Marker b) Pointer c) Key d) Insertion point
+29. The default name for a new document o f Star Office is
+a) Untitled 1 b) New document c) No name d) Default
+30. Document in a word processing application in Star Office is called a
+a) Star Writer b) Star Calc c) Star Impress d) Star Base
+31. When a text is selected, the following changes can be made
+a) text can be moved b) text can be copied
+c) text can be send d) both (a) and (b)
+32. An application that is designed to work on different operating systems is
+a) Star Calc b) Star Office c) Linus Office d) MSOffice
+33. Which key should not be pressed at the end of each line in Star Writer unit?
+a) TAB b) SHIFT c) ENTER d) ALT
+34. In Star Office, which o f the following indicates where the new text will appear on the
+screen.
+a) Marker b) Pointer c) Key d) Insertion point
+35. Which is moved to anywhere in the document either the mouse or keyboard is used.
+a) Pointer b) Letters c) Screen d) Insertion point
+36. We can create presentation using (June 2008)
+a) Star Office Impress b) Star Office Calc c) Star Office Draw d) Star Office Base
+37. While working with Star Office Writer how many document can be opened at the same
+time?
+a) Only one b) Only two c) Only three d) Many documents
+38. Which menu is used to open a new word document?
+a) Start b) Settings c) Open d) File
+39. Star Office applications are grouped together into a/an ________ environment.
+a) Joint b) Integrated c) Forum c) Combined
+40. Which o f the following is used to save a document in StarOffice Writer?
+a) File --> Save b) Save icon c) Ctrl + S d) (a) or (c)
+41. How to close the document in Star Writer?
+a) File --> Close b) File --> Exit c) Edit --> Exit  d) Edit --> Close
+42. Which key should be pressed only at the end o f a paragraph or when a blank line is
+inserted?
+a) DEL b) INSERT c) ENTER d) HOME
+43. ENTER key should be pressed at the end of
+a) each line b) each file c) each page d) a paragraph
+44. To reopen a document in Star Office Writer command is used.
+a) File --> Open b) File --> Reopen c) Edit --> Open d) Edit--> Reopen
+45. Which menu option is used to switch between documents in Star Writer?
+a) File b) Window c) Tools d) Format
+46. To move one cell to the right in a table press
+a) ALT + TAB b) TAB c) SHIFT d) CTRL
+47. The key that helps to move to the beginning o f a document is 
+a) Tab b) Page up c) Up arrow d) Ctrl + Home
+48. Naming a file is used to
+a) Find and open that file again b) Open a file c) Close a file d) Locate a file
+49. MS Word, Lotus AmiPro are
+a) Word processing packages b) Databases c) Operating systems d) Spreadsheets
+50. Which is a full-featured office productivity suite with powerful stand alone application,
+a) Office manager b) Star Office c) Office suite d) Office
+51. Which o f the following key is pressed to move the insertion point one word left?
+a) CTRL + LEFT ARROW b) ALT + LEFT ARROW c) SHIFT - 4 d) TAB
+52. Which o f the following key is pressed to move the insertion point one cell to the left in a
+table?
+a) ALT + TAB b) CTRL + TAB c) SFIIFT + TAB d) TAB
+53. Which key is pressed to move to the end o f a line?
+a) END b) HOME c) PAGEUP d) INSERT
+54. The short-cut key to select a particular line is
+a) Double click on the line b) Click one next to the line
+c) Press Ctrl+ 1 d) Ctrl + A
+55. In Star Office drawing can be drawn using
+a) Star Office Draw b) Draw c) Star Calc d) Star Base
+56. On typing the character, the vertical bar that appear is called
+a) Insertion point b) Mouse pointer c) Both (a) and (b) d) None o f the above
+57. Mistakes can be corrected either using the , key or the ______ key.
+a) Backspace, Delete b) Ctrl, Function c) Up, Down d) Left, Right
+58. How many sets o f scroll arrows in Star Writer?
+a) 2 b) 3 c) 8 d) 10
+59. Scrolling a document does not move the
+a) Mouse pointer b) Scroll bar c) Document marker d) Insertion point
+60. To move up one screen (scrolling) in the document press ______ key
+a) CTRL + END b) PAGE UP c) PAGE DOWN d) CTRL + SHIFT
+61. The short cut key for paste is
+a) Ctrl + a b) Ctrl + c c) Ctrl + x d) Ctrl + v
+62. Which is key is used to correct the mistake?
+a) DEL b) Ctrl c) HOME d) Shift
+63. Which bar gives the information about the current mode?
+a) Title bar b) Tool bar c) Status bar d) Menu bar
+64. What is the use o f cut option?
+a) Copy b) Move c) Shift d) Change
+65. The toggle between Type Over mode and the Insert mode using the _______ key.
+a) BACKSPACE b) DELETE c) HOME d) INSERT
+66. Which key deletes the characters to the left of the insertion point 
+a) Backspace b) HOME c) CTRL d) DEL
+67. The most commonly used editing functions are
+a) cut, copy, paste b) correct the mistakes c) modify d) delete
+68. To move one word to the right press
+a) CTRL b) CTRL + SHIFT c) CTRL + LEFT d) CTRL + RIGHT ARROW
+69. After the new text is inserted, the existing text would move to
+a) left b) right c) down d) center
+70. Which o f the following consists o f several applications?
+a) Star Office Draw b) Star Office Writer c) Star Office d) Star Office Calc
+71. For selecting text in Star Writer_______ can be used.
+a) Mouse b) Keyboard c) Insertion point d ) (a) or (b)
+72. Using keyboard, which key is used to select the required text in Star Office Writer,
+a) SHIFT b) CTRL c) ALT d) TAB
+73. Unselect the wrongly selected text a _________ should be made outside the selected text.
+a) Click b) Window c) Double click d) Move
+74. Which command is used to start Star Office?
+a) Start--> Star Office b) Start --> All Program --> Star Office
+c) Star Office --> Open d) Programs --> Star Office
+75. Star Office is a product of _________
+a) Sun micro system b) Microsoft c) Oracle d) IBM
+76. Which of the key is used to select the entire document in Star Writer 
+a) Ctrl + A b) Ctrl + L c) Ctrl + E d) Ctrl + D
+77. Which command is used to cut the selected text in Star Office Writer? 
+a) File --> Cut b) Tools --> Cut c) Edit --> Cut d) Format --> Cut
+78. Which button in clicked to search for a word?
+a) Find b) Format c) Cancel d) Replace
+79. The short cut key to copy a selected text is (March 2008)
+a) Ctrl + A b) Ctrl + C c) Ctrl + R d) Ctrl l X
+80. When the work is finished, which command is used to save and close a document?
+a) File --> Save command b) File --> Preview
+c) File Close command d) File --> Open command
+81. Which o f the following short cut key can be used to move the text in Star Office Writer?
+a) Ctrl + M b) Ctrl + V c) Ctrl + C d) Ctrl + X
+82. Which menu is selected to paste the text in new location in Star Office Writer?
+a) Tools b) Format c) Edit d) File
+83. To make all the replacement without confirmation _________ button is clicked
+a) Replace b) Ignore All c) Replace All d) Ignore
+84. To move one screen up we press the
+a) Page up key b) End key c) Home key d) Up arrow key
+85. In Star Office Writer, when the characters being typed reaches the end o f the line then
+a) TAB key is pressed to start next line
+b) INSERT key is pressed to start next line
+c) ENTER key is pressed to start next line
+d) It will automatically wrap the text to the next line
+86. Which of the following is used to search for a particular text in Star Office?
+a) Insert --> Find & Replace b) Format --> Find & Replace
+c) Edit --> Find & Replace d) Tools --> Find & Replace
+87. The short cut key for cut and paste is
+a) Ctrl + C and Ctrl + V b) Ctrl + A and Ctrl + X
+c) Ctrl + V and Ctrl + C d) Ctrl + X and Ctrl + V
+88. Which button is to be clicked to highlight the first match?
+a) Replace b) Cancel c) Select d) Find
+89. To select text with mouse
+a) Click, hold down shift key and move mouse pointer
+b) Click, hold down Ctrl key and move mouse pointer
+c) Click, hold down and drag right mouse button
+d) Click, hold down and drag left mouse1 button
+90. Which o f the following application work on different operating systems?
+a) HTML b) Database c) Lotus 1-2-3 d) Star Office
+91. _________ the files enables the user to find and open that file again.
+a) Entering b) Naming c) Prompting d) Saving
+92. The user can move to the various portions of the document using
+a) Keyboard short cuts b) Mouse
+c) Insertion point d) (a) or (b)
+93. How is the desktop in Star Office called?
+a) Star Base b) Star Calc c) Star Desktop d) Star Draw
+94. While creating a document using Star Writer, When the insertion point reaches the end of
+the page 
+a) Insert key is pressed to start a new page
+b) Enter key is pressed to start a new page
+c) Star Writer automatically creates a new page
+d) Space bar key is pressed to start a new page
+95. When a new text is typed if the existing text to the right o f the insertion point disappears
+then the user is in the ______ mode.
+a) Type over b) Insert on c) Insert d) Both (a) and (c)
+96. Which o f the following cannot go beyond the page area.
+a) Insertion point b) Intersecting point c) Intimating point d) Indicating point
+97. While saving a file for the first time dialog box appears.
+a) Save as b) Edit c) Save d) Open
+98. To select a word in a document
+a) Press Ctrl + W b) Shift + del
+c) Click the word in a document d) Double click on a word
+99. To scroll left and right the ______  , _______ should be clicked.
+a) Page up and Page down b) Ctrl + Right
+c) Up and Left arrow d) Left and right scroll arrow
+100. To move the insertion point with the keyboard the ________combination can be used.
+a) Ctrl + Other keys b) Alt + Other keys
+c) Function + Other key d) Arrow keys + Other keys
+101. The file --> new command can be used to open a
+a) Untitled 1 b) Document c) Text document d) Database
+102. Which key is to be pressed to move up by one line?
+a) Tab + Upward arrow key b) Shift + Upward arrow key
+c) Ctrl + Upward arrow key d) Upward arrow key
+103. To save a file a double click is made on the required folder and the file name is given in
+the _______ listbox.
+a) Search for b) Type c) List d) File name
+104. The pointer is different from insertion point.
+a) Mouse b)Key c) Insertion d) Indicating
+105. To switch between multiple document, click on the document _____ visible on the task
+bar.
+a) Icon b) Graphic c) Pointer d) Button
+106. If the document is long, the text can be through without moving the insertion point.
+a) Viewed b) Edited c) Formatting d) Scrolled 
+107. Entering a new text or modifying the existing text in a document is called 
+a) Text editing b) Editing c) Document Editing d)Text moving
+108. To move down one screen (scrolling') in the document press key.
+a) CTRL + END b) PAGE UP c) PAGE DOWN d) CTRL + HOME
+
+109. Which shortcut is used to select the entire document?
+a) Ctrl + A b) Ctrl + S c) Ctrl + E d) Ctrl + C
+110. In which box, the text that you want to find in your document is typed?
+a) Replace with b) Search for c) Replace All d) Find
+
+1 c 17 d 33 c 49 a 65 d 81 d 97 a
+2 a 18 b 34 d 50 b 66 a 82 c 98 d
+3 a 19 c 35 d 51 a 67 a 83 e 99 d
+4 a 20 c 36 a 52 c 68 d 84 a 100 d
+5 b 21 d 37 d 53 a 69 b 85 d 101 c
+6 a 22 a 38 d 54 b 70 c 86 c 102 d
+7 d 23 d 39 b 55 a 71 d 87 d 103 d
+8 a 24 d 40 d 56 a 72 a 88 d 104 a
+9 b 25 d 41 a 57 a 73 a 89 d 105 d
+10 b 26 d 42 c 58 a 74 b 90 d 106 d
+11 a 27 a 43 d 59 d 75 a 91 b 107 a
+12 c 28 d 44 a 60 b 76 a 92 d 108 c
+13 b 29 a 45 b 61 d 11 c 93 c 109 a
+14 a 30 a 46 b 62 a 78 a 94 c 110 b
+15 b 31 d 47 d 63 c 79 b 95 c
+16 a 32 b 48 a 64 b 80 c 96 a 
